@@ -1,2 +1,2 @@
 # LiabilityThresholdModel
-Mixed model method for case control outcomes, for proper calibration under ascertainment bias and relatedness. 
+Mixed model method for case control outcomes, for proper calibration and improved power in settings of ascertainment bias and relatedness. 
